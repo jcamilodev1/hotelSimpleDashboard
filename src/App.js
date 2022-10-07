@@ -1,10 +1,10 @@
+import RouteView from "./router/Index";
+
 
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <RouteView></RouteView>
   );
 }
 
