@@ -8,7 +8,7 @@ export const handlers = [
           id: 1,
           cantidad: 3,
           bookings: [
-            { start: "2022-10-01", end: "2022-10-05" },
+            { start: "2022-10-23", end: "2022-10-28" },
             { start: "2022-10-05", end: "2022-01-08" },
             { start: "2022-11-02", end: "2022-01-05" },
           ],
@@ -16,8 +16,8 @@ export const handlers = [
         {
           id: 2,
           cantidad: 4,
-          "bookings ": [
-            { start: "2022-10-01", end: "2022-10-05" },
+          bookings: [
+            { start: "2022-10-23", end: "2022-10-28" },
             { start: "2022-11-15", end: "2022-01-18" },
             { start: "2022-11-10", end: "2022-11-15" },
           ],
@@ -25,8 +25,8 @@ export const handlers = [
         {
           id: 3,
           cantidad: 2,
-          "bookings ": [
-            { start: "2022-10-01", end: "2022-10-05" },
+          bookings: [
+            { start: "2022-10-23", end: "2022-10-28" },
             { start: "2022-11-05", end: "2022-01-08" },
             { start: "2022-11-01", end: "2022-11-05" },
           ],
@@ -34,8 +34,8 @@ export const handlers = [
         {
           id: 4,
           cantidad: 2,
-          "bookings ": [
-            { start: "2022-10-01", end: "2022-10-05" },
+          bookings: [
+            { start: "2022-10-23", end: "2022-10-28" },
             { start: "2022-11-05", end: "2022-01-08" },
             { start: "2022-11-01", end: "2022-11-05" },
           ],
