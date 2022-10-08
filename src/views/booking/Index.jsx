@@ -38,6 +38,11 @@ const Booking = () => {
         text: 'La habitacion ya esta ocupada para tus fechas',
       })
     }else{
+      const res = await fetch("/habitaciones", {
+        method: 'POST',
+        body: JSON.stringify({person: data, room : habitacionesDisponible})
+      })
+      console.log(res)
       Swal.fire(
         'Tu solicitud ha sido exitosa',
         `Reservaste la habitacion con id: ${habitacionesDisponible.id}`,
