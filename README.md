@@ -1,5 +1,8 @@
-# Hotel Dashboard
+# Hotel Simple Dashboard
 
+### `npm install`
+
+Antes de inicilizar se debe correr un npm install para la correcta instalacion de dependencias.
 
 ### `npm start`
 
