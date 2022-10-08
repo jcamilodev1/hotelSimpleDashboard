@@ -57,6 +57,7 @@ export const handlers = [
             {
               start: "2022-10-23",
               end: "2022-10-28",
+              price: "15",
               person: {
                 name: "juan camilo ",
                 email: "mail@mail.com",
@@ -66,6 +67,7 @@ export const handlers = [
             {
               start: "2022-10-05",
               end: "2022-01-08",
+              price: "15",
               person: {
                 name: "Carlos Mario",
                 email: "mail@mail.com",
@@ -75,6 +77,7 @@ export const handlers = [
             {
               start: "2022-11-02",
               end: "2022-01-05",
+              price: "15",
               person: {
                 name: "Tatiana cuellar",
                 email: "mail@mail.com",
@@ -90,6 +93,7 @@ export const handlers = [
             {
               start: "2022-10-23",
               end: "2022-10-28",
+              price: "15",
               person: {
                 name: "Sandra martinez",
                 email: "mail@mail.com",
@@ -99,6 +103,7 @@ export const handlers = [
             {
               start: "2022-11-15",
               end: "2022-01-18",
+              price: "15",
               person: {
                 name: "Oscar Rodriguez",
                 email: "mail@mail.com",
@@ -108,6 +113,7 @@ export const handlers = [
             {
               start: "2022-11-10",
               end: "2022-11-15",
+              price: "15",
               person: {
                 name: "Mario Benedeti",
                 email: "mail@mail.com",
@@ -123,6 +129,7 @@ export const handlers = [
             {
               start: "2022-10-23",
               end: "2022-10-28",
+              price: "15",
               person: {
                 name: "Melissa castro",
                 email: "mail@mail.com",
@@ -132,6 +139,7 @@ export const handlers = [
             {
               start: "2022-11-05",
               end: "2022-01-08",
+              price: "15",
               person: {
                 name: "Cristhian Martinez",
                 email: "mail@mail.com",
@@ -141,6 +149,7 @@ export const handlers = [
             {
               start: "2022-11-01",
               end: "2022-11-05",
+              price: "15",
               person: {
                 name: "Juliana perez",
                 email: "mail@mail.com",
@@ -156,6 +165,7 @@ export const handlers = [
             {
               start: "2022-10-23",
               end: "2022-10-28",
+              price: "15",
               person: {
                 name: "juan camilo ",
                 email: "mail@mail.com",
@@ -165,6 +175,7 @@ export const handlers = [
             {
               start: "2022-11-05",
               end: "2022-01-08",
+              price: "15",
               person: {
                 name: "Daniel Castro",
                 email: "mail@mail.com",
@@ -174,6 +185,7 @@ export const handlers = [
             {
               start: "2022-11-01",
               end: "2022-11-05",
+              price: "15",
               person: {
                 name: "Lina perez",
                 email: "mail@mail.com",
